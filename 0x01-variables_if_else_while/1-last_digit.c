@@ -2,8 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /*
- * main - Entry point
- *Description: A program to determin and print a positive, negative or zero digit
+ * main - print if the number is positive, zero, or negative
+ *
+ *Description: using the main function
+ *this program prints "Programming is positive,zero, or negative
  * Return: 0
  */
 int main(void)
