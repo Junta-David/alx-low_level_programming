@@ -3,7 +3,7 @@
 #include <stdio.h>
 /*
  * main - Entry point
- * A program to determin and print a positive, negative or zero digit
+ *Description: A program to determin and print a positive, negative or zero digit
  * Return: 0
  */
 int main(void)
