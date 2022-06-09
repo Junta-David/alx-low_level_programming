@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*8
+/**
  * main - causes an infinite loop
  * Return: 0
  * */
