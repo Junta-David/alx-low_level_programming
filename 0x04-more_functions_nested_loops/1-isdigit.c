@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isupper - check for upper case character
+ * _isdigit - check for a digit 0 through 9
  * @c:integer
  *
  * Return: 1 if c is uppercase, 0 otherwise
