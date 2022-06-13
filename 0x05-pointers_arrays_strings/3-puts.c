@@ -3,7 +3,7 @@
  * _puts - prints a string 
  * @str: string of characters
  */
-void _puts(char *s)
+void _puts(char *str)
 {
 	int i;
 	
